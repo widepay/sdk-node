@@ -1,5 +1,4 @@
-const moment = require("moment");
-const WidePay = require("./WidePay.js");
+const WidePay = require("wide-pay-node");
 
 const config = {
     widePayId: '406218',
